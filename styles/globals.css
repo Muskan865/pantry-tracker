@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgba(19, 8, 177, 0.685);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.te{
+  text-align: center;
+}
+
+.buton{
+  float: right;
+}
+.write{
+  display: inline;
+}
+
